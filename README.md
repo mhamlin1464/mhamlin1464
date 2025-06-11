@@ -3,7 +3,7 @@
 <h2> IT Related Projects:</h2>
 
 - <b>Active Directory HomeLab</b>
-  - [Setting up Active Directory with Virtual Box, Microsoft 2019 Server, and Windows 10 Pro](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up Active Directory with Virtual Box, Microsoft 2019 Server, and Windows 10 Pro](https://github.com/mhamlin1464/Active-Directory-HomeLab.git)
 <h2>Software Development Projects</h2>
 
 - Coming Soon!
