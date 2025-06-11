@@ -1,4 +1,4 @@
-<h1>Hello! <br/><a href="https://github.com/mhamlin1464">Aspiring Programmer and IT Professional </a></h1>
+<h1>Hello! <br/><a href="https://github.com/mhamlin1464">Aspiring Software Developer and IT Professional </a></h1>
 
 <h2> IT Related Projects:</h2>
 
